@@ -1,0 +1,7 @@
+Rules of Four Players Doudizhu
+
+Introduction
+
+Doudizhu (fight for landlord) is a card game. In each round, the “landlord” plays alone and the others form a team. The landlord wins if he/she is the first one to play out all his/her cards in valid combinations, and the team wins if any one of them play out all cards before landlord. This game is mainly for three players, our team is aimed to transfer the three-players gam to four-player game.
+
+Four-player Doudizhu uses a double deck- 108 cards altogether. Each player has 25 cards, but landlord could get 33 cards again the other three players
