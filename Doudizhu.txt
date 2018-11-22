@@ -1,7 +1,43 @@
 Rules of Four Players Doudizhu
 
-Introduction
+Introduction:
 
 Doudizhu (fight for landlord) is a card game. In each round, the “landlord” plays alone and the others form a team. The landlord wins if he/she is the first one to play out all his/her cards in valid combinations, and the team wins if any one of them play out all cards before landlord. This game is mainly for three players, our team is aimed to transfer the three-players gam to four-player game.
 
 Four-player Doudizhu uses a double deck- 108 cards altogether. Each player has 25 cards, but landlord could get 33 cards again the other three players
+
+
+
+Play:
+
+The cards rank from high to low: red joker, black joker, 2, A, K, Q, J, 10, 9, 8, 7, 6, 5, 4, 3. The marks on cards are spade, heart, diamond, and club. The marks on cards would not affect the rank order of cards.
+
+The landlord plays first, then player in anti clockwise order to play cards. Players could play a single card or valid combination, but they should either play no card or beat the previous player. Player can beat previous player only by playing higher combination of the same type and same number of cards, or bomb or rocket.
+
+
+
+Combinations that can be played:
+
+(1)Single card: any single card.
+   Example:3
+(2)Sequence: >= at least five cards of consecutive rank.
+   Example:3-4-5-6-7
+(3)Pair: Two matching cards of equal rank.
+   Example:3-3
+(4)Sequence of pairs: >=three consecutive pairs.
+   Example:3-3-4-4-5-5
+(5)Triplet: Three cards of the same rank
+   Example:3-3-3
+(6)Sequence of triplets: >= two consecutive triplet.
+   Example:3-3-3-4-4-4
+(7)Triplet with an attached pair: Three cards of the same rank attach extra pair.
+   Example:3-3-3-4-4
+(8)Sequence of triplets with attached pairs: >= two consecutive triplet with each carrying a pair.
+   Example: 3-3-3-4-4-4-5-5-6-6
+(9)Bomb: Four of more cards of equal rank. A bomb with more cards beats a bomb with fewer cards. Bomb can beat any other combination except rocket.
+   Example:3-3-3-3,5-5-5-5-5
+(10)Rocket:Four jokers, which can beat everything in the game
+
+
+
+
